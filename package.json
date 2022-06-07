@@ -1,0 +1,20 @@
+{
+  "name": "gousto",
+  "version": "1.0.0",
+  "description": "Gousto Tech Test",
+  "main": "intelligentPackaging.js",
+  "scripts": {
+    "start": "node --experimental-json-modules intelligentPackaging.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRP01/Gousto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JRP01/Gousto/issues"
+  },
+  "homepage": "https://github.com/JRP01/Gousto#readme"
+}
